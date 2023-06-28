@@ -1,7 +1,7 @@
 # Contact Form
 
+![alt text](https://github.com/MarounGrey-Notes/Shopify-Templates/blob/main/images/Screenshot%202023-06-27%20214542.png?raw=true)
 
-### Liquid
 ```
 <div class="contact-form">
   <h2>{{ section.settings.form_header }}</h2>
